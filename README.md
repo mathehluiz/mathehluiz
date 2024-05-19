@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, DDD, Clean arch**
 
-- 💬 Ask me about **Nestjs, Nodejs, Nextjs, Clean architeture**
+- 💬 Ask me about **Nestjs, Nodejs, Nextjs, Clean architeture, Domain-Driven Design**
 
 - 📫 How to reach me **www.linkedin.com/in/mathehluiz**
 
