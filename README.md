@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A fullstack developer entusiasthic</h3>
+<h3 align="center">A fullstack developer enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathehluiz&label=Profile%20views&color=0e75b6&style=flat" alt="mathehluiz" /> </p>
 
