@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nestjs and Nextjs**
 
-- 🌱 I’m currently learning **Go, DDD, Clean arch**
+- 🌱 I’m currently learning **Go, DDD, Clean arch, Modular monoliths**
 
 - 💬 Ask me about **Nestjs, Nodejs, Nextjs, Clean architeture**
 
