@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A fullstack developer entusiasthic</h3>
 
-- 🔭 I’m currently working on **Nestjs and Nextjs**
+- 🔭 I’m currently working on **Nestjs and Go**
 
-- 🌱 I’m currently learning **Go, DDD, Clean arch, Modular monoliths**
+- 🌱 I’m currently learning **DDD, Clean arch, Modular monoliths**
 
 - 💬 Ask me about **Nestjs, Nodejs, Nextjs, Clean architeture**
 
