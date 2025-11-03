@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A fullstack developer entusiasthic</h3>
+<h3 align="center">A backend engineer</h3>
 
 - 🔭 I’m currently working on **Nestjs and Go**
 
